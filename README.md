@@ -1,2 +1,2 @@
 # Atlantis-University
-Homepage for a fictional university
+This is a homepage for a fictional university!
